@@ -90,13 +90,14 @@ Padrão de commits: `chore:`, `docs:`, `feat:`, `fix:`.
 
 ## Membros
 
+## Membros
+
 | Nome | Matrícula | Papel |
 |------|-----------|-------|
-| Tarsílio Aureliano Soares Silva | 01803880 | <!-- definir: Scrum Master / Documentador / Desenvolvedor / Testador --> |
-| Nome do aluno | 000000 | Scrum Master |
-| Nome do aluno | 000000 | Documentador |
-| Nome do aluno | 000000 | Desenvolvedor |
-| Nome do aluno | 000000 | Testador |
+| Tarsílio Aureliano Soares Silva | 01803880 | Scrum Master |
+| Tarsílio Aureliano Soares Silva | 01803880 | Documentador |
+| Tarsílio Aureliano Soares Silva | 01803880 | Desenvolvedor |
+| Tarsílio Aureliano Soares Silva | 01803880 | Testador |
 
 > Papéis: **Scrum Master** (apenas um), **Documentador**, **Desenvolvedor** e **Testador** (podem ser vários).
 
