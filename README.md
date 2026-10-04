@@ -99,7 +99,6 @@ Padrão de commits: `chore:`, `docs:`, `feat:`, `fix:`.
 | Tarsílio Aureliano Soares Silva | 01803880 | Desenvolvedor |
 | Tarsílio Aureliano Soares Silva | 01803880 | Testador |
 
-> Papéis: **Scrum Master** (apenas um), **Documentador**, **Desenvolvedor** e **Testador** (podem ser vários).
 
 ## Licença
 
